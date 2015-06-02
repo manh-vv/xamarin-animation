@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xm-animation", "xm-animation\xm-animation.csproj", "{152453B9-28C3-4B5D-99BA-FF01E91F3A31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xm-animation.Droid", "Droid\xm-animation.Droid.csproj", "{1019134E-A8F2-4AC7-AAB3-F2A061EBA709}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xm-animation.UITests", "UITests\xm-animation.UITests.csproj", "{32F079F4-CC58-48FC-8B8F-16A69D89539D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1019134E-A8F2-4AC7-AAB3-F2A061EBA709}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1019134E-A8F2-4AC7-AAB3-F2A061EBA709}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1019134E-A8F2-4AC7-AAB3-F2A061EBA709}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1019134E-A8F2-4AC7-AAB3-F2A061EBA709}.Release|Any CPU.Build.0 = Release|Any CPU
+		{152453B9-28C3-4B5D-99BA-FF01E91F3A31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{152453B9-28C3-4B5D-99BA-FF01E91F3A31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{152453B9-28C3-4B5D-99BA-FF01E91F3A31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{152453B9-28C3-4B5D-99BA-FF01E91F3A31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32F079F4-CC58-48FC-8B8F-16A69D89539D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32F079F4-CC58-48FC-8B8F-16A69D89539D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32F079F4-CC58-48FC-8B8F-16A69D89539D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32F079F4-CC58-48FC-8B8F-16A69D89539D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
